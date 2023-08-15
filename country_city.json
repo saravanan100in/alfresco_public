@@ -1,0 +1,26 @@
+[
+    {
+        "country": "Australia",
+        "city": "Sydney"
+    },
+    {
+        "country": "Australia",
+        "city": "Melbourne"
+    },
+    {
+        "country": "Singapore",
+        "city": "Singapore"
+    },
+    {
+        "country": "Malaysia",
+        "city": "Kuala Lumpur"
+    },
+    {
+        "country": "India",
+        "city": "Mumbai"
+    },
+    {
+        "country": "Philippines",
+        "city": "Manila"
+    }
+]
