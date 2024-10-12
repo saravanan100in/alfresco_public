@@ -1,0 +1,65 @@
+[
+    {
+        "fullName": "Edward Culen",
+        "kycStatus": "Approved",
+        "amlStatus": "Passed",
+        "complianceOfficer": "Jean Dean",
+        "sanctionCheck": "Clean",
+        "pepStatus": "No",
+        "riskLevel": "Low"
+    },
+    {
+        "fullName": "Linda Ng",
+        "kycStatus": "Approved",
+        "amlStatus": "Passed",
+        "complianceOfficer": "Thomas Low",
+        "sanctionCheck": "Clean",
+        "pepStatus": "No",
+        "riskLevel": "Low"
+    },
+    {
+        "fullName": "Asma",
+        "kycStatus": "Pending",
+        "amlStatus": "Passed",
+        "complianceOfficer": "Albert Tay",
+        "sanctionCheck": "Clean",
+        "pepStatus": "Yes",
+        "riskLevel": "Low"
+    },
+    {
+        "fullName": "John Doe",
+        "kycStatus": "Approved",
+        "amlStatus": "Passed",
+        "complianceOfficer": "Jean Dean",
+        "sanctionCheck": "Clean",
+        "pepStatus": "No",
+        "riskLevel": "Medium"
+    },
+    {
+        "fullName": "Jane",
+        "kycStatus": "Approved",
+        "amlStatus": "Passed",
+        "complianceOfficer": "Steve Job",
+        "sanctionCheck": "Clean",
+        "pepStatus": "No",
+        "riskLevel": "Low"
+    },
+    {
+        "fullName": "Gibson Mel",
+        "kycStatus": "Rejected",
+        "amlStatus": "Failed",
+        "complianceOfficer": "Jean Dean",
+        "sanctionCheck": "Flagged",
+        "pepStatus": "Yes",
+        "riskLevel": "High"
+    },
+    {
+        "fullName": "Joshua Daniel",
+        "kycStatus": "Pending",
+        "amlStatus": "Failed",
+        "complianceOfficer": "Jean Dean",
+        "sanctionCheck": "Flagged",
+        "pepStatus": "Yes",
+        "riskLevel": "High"
+    }
+]
